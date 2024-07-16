@@ -2,5 +2,8 @@ blah
 blah blah blah
 nah blah
 blah blah blah
+<<<<<<< HEAD
 hello!
 2nd time is the charm?
+=======
+>>>>>>> parent of da9c671 (make conflict)
